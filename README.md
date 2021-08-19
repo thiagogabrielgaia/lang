@@ -27,4 +27,3 @@ In this repository, you can find the lang files for the [Laravel Framework 4/5/6
 
 - [Referents by language](https://laravel-lang.github.io/lang/referents.html)
 - [All Contributors](https://github.com/Laravel-Lang/lang/graphs/contributors)
-- [All Contributors](https://github.com/Laravel-Lang/lang/graphs/contributors)
